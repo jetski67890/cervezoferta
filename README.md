@@ -37,7 +37,7 @@ git clone https://github.com/jetski67890/cervezoferta.git
 2. Navigate to the project directory:
 
 ```sh
-cd cerverzoferta
+cd cervezoferta
 ```
 
 3. Install dependencies:
