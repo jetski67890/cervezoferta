@@ -58,7 +58,7 @@ The .env should include the following settings for sending out notifications:
 
 ## Usage
 
-1. Run the setup command to configure the application (or create .env and cahnge config.js):
+1. Run the setup command to configure the application (or create .env and change config.js):
 
 ```sh
 npm run setup
